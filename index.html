@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wall of Fame</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="site-data/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="site-data/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="site-data/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="site-data/favicon-16x16.png">
+    <link rel="manifest" href="site-data/site.webmanifest">
+  </head>
+  <body>
+    <header>
+      <h1>Wall of Fame</h1>
+      <p>Honoring the amazing contributors who improved my projects!</p>
+    </header>
+    <main id="contributors-list"></main>
+    <div id="popup" class="popup">
+      <div class="popup-content">
+        <span class="close">&times;</span>
+        <img id="popup-img" src="" alt="Contributor Avatar">
+        <h2 id="popup-name"></h2>
+        <p id="popup-desc"></p>
+        <div class="popup-buttons">
+          <a id="github-profile" target="_blank" class="btn">GitHub Profile</a>
+          <a id="pr-link" target="_blank" class="btn">View Pull Request</a>
+          <a id="project-link" target="_blank" class="btn">Go to Project</a>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <p>People shown on this page can <a href="https://github.com/ThatSINEWAVE/Wall-of-Fame/issues" target="_blank">open an Issue</a> or <a href="https://github.com/ThatSINEWAVE/Wall-of-Fame/pulls" target="_blank">create a PR</a> on this repo with their Discord ID to verify their identity and claim their role on the official Discord server. The role will be manually assigned by me. </p>
+      <p>Made with ❤️ by <a href="https://github.com/ThatSINEWAVE" target="_blank">ThatSINEWAVE</a>
+      </p>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
