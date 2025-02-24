@@ -1,8 +1,10 @@
 <div align="center">
 
-## [Wall of Fame](https://ThatSINEWAVE.github.io/Wall-of-Fame/)
+# [Wall of Fame](https://ThatSINEWAVE.github.io/Wall-of-Fame/)
 
-This web application showcases contributors who have made significant contributions to my open-source projects. It is built using **HTML, CSS, and JavaScript** and is hosted on **GitHub Pages**.  
+This web application showcases contributors who have made significant contributions to my open-source projects.  
+
+![Wall-of-Fame](https://github.com/user-attachments/assets/ebdcc438-7c51-4cba-bc38-7f13785459ff)
 
 </div>
 
@@ -48,17 +50,17 @@ Contributors can **verify their identity** to claim their role in the official D
 
 ## 🚀 How to Run Locally  
 
-1️⃣ **Clone the repository**  
+1. **Clone the repository**  
 ```bash
 git clone https://github.com/ThatSINEWAVE/Wall-of-Fame.git
 ```
 
-2️⃣ **Navigate into the project folder**  
+2. **Navigate into the project folder**  
 ```bash
 cd Wall-of-Fame
 ```
 
-3️⃣ **Open `index.html` in your browser**  
+3. **Open `index.html` in your browser**  
 ```bash
 open index.html  # Mac
 start index.html # Windows
