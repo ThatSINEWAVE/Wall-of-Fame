@@ -39,7 +39,7 @@ Below are the contributors who have significantly improved my projects:
 | **ArthurJenck** | [@ArthurJenck](https://github.com/ArthurJenck) | Minor changes and fixes | [InsaneIdeas](https://github.com/ThatSINEWAVE/InsaneIdeas/pull/2) |
 | **dxnali** | [@dxnali](https://github.com/dxnali) | Added file sorter script | [Simple-Python-Scripts](https://github.com/ThatSINEWAVE/Simple-Python-Scripts/pull/3) |
 
-## 🎖 Claiming Your Role  
+## Claiming Your Role  
 
 Contributors can **verify their identity** to claim their role in the official Discord server.  
 
@@ -48,7 +48,7 @@ Contributors can **verify their identity** to claim their role in the official D
 3. I will manually verify and **assign your role**  
 
 
-## 🚀 How to Run Locally  
+## How to Run Locally  
 
 1. **Clone the repository**  
 ```bash
