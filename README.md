@@ -4,7 +4,7 @@
 
 This web application showcases contributors who have made significant contributions to my open-source projects.  
 
-![Wall-of-Fame](https://github.com/user-attachments/assets/ebdcc438-7c51-4cba-bc38-7f13785459ff)
+![Wall-of-Fame](https://raw.githubusercontent.com/ThatSINEWAVE/Wall-of-Fame/refs/heads/main/.github/SCREENSHOTS/Wall-of-Fame.png)
 
 </div>
 
