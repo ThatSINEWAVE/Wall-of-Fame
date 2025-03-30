@@ -18,6 +18,12 @@ document.addEventListener("DOMContentLoaded", () => {
             pr: "https://github.com/ThatSINEWAVE/Clockwork/pull/2"
         },
         {
+            name: "jasurlive",
+            github: "jasurlive",
+            contribution: "Added import button in PureTask.",
+            pr: "https://github.com/ThatSINEWAVE/PureTask/pull/5"
+        },
+        {
             name: "wqu7l3br03",
             github: "wqu7l3br03",
             contribution: "Added OSINT.ly in OSINT-Toolkit.",

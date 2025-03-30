@@ -26,18 +26,19 @@ This web application showcases contributors who have made significant contributi
 
 Below are the contributors who have significantly improved my projects:  
 
-| Contributor | GitHub Username | Contribution | Project |
-|------------|---------------|-------------|---------|
-| **Sanchita Chaurasia** | [@sanchitachaurasia](https://github.com/sanchitachaurasia) | Complete frontend overhaul | [OSINT-Toolkit](https://github.com/ThatSINEWAVE/OSINT-Toolkit/pull/4) |
-| **Nitrrine** | [@Nitrrine](https://github.com/Nitrrine) | Various improvements and fixes | [IP-Lookup-Bot](https://github.com/ThatSINEWAVE/IP-Lookup-Bot/pull/7) |
-| **Jivi-this-side** | [@Jivi-this-side](https://github.com/Jivi-this-side) | Created Mountain Theme | [Clockwork](https://github.com/ThatSINEWAVE/Clockwork/pull/2) |
-| **wqu7l3br03** | [@wqu7l3br03](https://github.com/wqu7l3br03) | Added OSINT.ly | [OSINT-Toolkit](https://github.com/ThatSINEWAVE/OSINT-Toolkit/pull/5) |
-| **HTMLSlander** | [@HTMLSlander](https://github.com/HTMLSlander) | Improved the navbar | [OSINT-Toolkit](https://github.com/ThatSINEWAVE/OSINT-Toolkit/pull/7) |
-| **hudsonrock-partnerships** | [@hudsonrock-partnerships](https://github.com/hudsonrock-partnerships) | Added Hudson Rock | [OSINT-Toolkit](https://github.com/ThatSINEWAVE/OSINT-Toolkit/pull/8) |
-| **TaylorPhelps** | [@TaylorPhelps](https://github.com/TaylorPhelps) | Improved UI | [PredictionEngine](https://github.com/ThatSINEWAVE/PredictionEngine/pull/2) |
-| **aadhityaalagappan** | [@aadhityaalagappan](https://github.com/aadhityaalagappan) | Added HistoricalFigures API | [PredictionEngine](https://github.com/ThatSINEWAVE/PredictionEngine/pull/3) |
-| **ArthurJenck** | [@ArthurJenck](https://github.com/ArthurJenck) | Minor changes and fixes | [InsaneIdeas](https://github.com/ThatSINEWAVE/InsaneIdeas/pull/2) |
-| **dxnali** | [@dxnali](https://github.com/dxnali) | Added file sorter script | [Simple-Python-Scripts](https://github.com/ThatSINEWAVE/Simple-Python-Scripts/pull/3) |
+| Contributor                 | GitHub Username                                                        | Contribution                   | Project                                                                               |
+|-----------------------------|------------------------------------------------------------------------|--------------------------------|---------------------------------------------------------------------------------------|
+| **Sanchita Chaurasia**      | [@sanchitachaurasia](https://github.com/sanchitachaurasia)             | Complete frontend overhaul     | [OSINT-Toolkit](https://github.com/ThatSINEWAVE/OSINT-Toolkit/pull/4)                 |
+| **Nitrrine**                | [@Nitrrine](https://github.com/Nitrrine)                               | Various improvements and fixes | [IP-Lookup-Bot](https://github.com/ThatSINEWAVE/IP-Lookup-Bot/pull/7)                 |
+| **Jivi-this-side**          | [@Jivi-this-side](https://github.com/Jivi-this-side)                   | Created Mountain Theme         | [Clockwork](https://github.com/ThatSINEWAVE/Clockwork/pull/2)                         |
+| **wqu7l3br03**              | [@wqu7l3br03](https://github.com/wqu7l3br03)                           | Added OSINT.ly                 | [OSINT-Toolkit](https://github.com/ThatSINEWAVE/OSINT-Toolkit/pull/5)                 |
+| **jasurlive**               | [@jasurlive](https://github.com/jasurlive)                             | Added Import Button            | [PureTask](https://github.com/ThatSINEWAVE/PureTask/pull/5)                           |
+| **HTMLSlander**             | [@HTMLSlander](https://github.com/HTMLSlander)                         | Improved the navbar            | [OSINT-Toolkit](https://github.com/ThatSINEWAVE/OSINT-Toolkit/pull/7)                 |
+| **hudsonrock-partnerships** | [@hudsonrock-partnerships](https://github.com/hudsonrock-partnerships) | Added Hudson Rock              | [OSINT-Toolkit](https://github.com/ThatSINEWAVE/OSINT-Toolkit/pull/8)                 |
+| **TaylorPhelps**            | [@TaylorPhelps](https://github.com/TaylorPhelps)                       | Improved UI                    | [PredictionEngine](https://github.com/ThatSINEWAVE/PredictionEngine/pull/2)           |
+| **aadhityaalagappan**       | [@aadhityaalagappan](https://github.com/aadhityaalagappan)             | Added HistoricalFigures API    | [PredictionEngine](https://github.com/ThatSINEWAVE/PredictionEngine/pull/3)           |
+| **ArthurJenck**             | [@ArthurJenck](https://github.com/ArthurJenck)                         | Minor changes and fixes        | [InsaneIdeas](https://github.com/ThatSINEWAVE/InsaneIdeas/pull/2)                     |
+| **dxnali**                  | [@dxnali](https://github.com/dxnali)                                   | Added file sorter script       | [Simple-Python-Scripts](https://github.com/ThatSINEWAVE/Simple-Python-Scripts/pull/3) |
 
 ## Claiming Your Role  
 
