@@ -48,6 +48,12 @@ document.addEventListener("DOMContentLoaded", () => {
             pr: "https://github.com/ThatSINEWAVE/PredictionEngine/pull/2"
         },
         {
+            name: "Srivarshan-T",
+            github: "Srivarshan-T",
+            contribution: "Improved the tab UI of Notepad Online",
+            pr: "https://github.com/ThatSINEWAVE/Notepad-Online/pull/3"
+        },
+        {
             name: "aadhityaalagappan",
             github: "aadhityaalagappan",
             contribution: "Added HistoricalFigures API to PredictionEngine.",
